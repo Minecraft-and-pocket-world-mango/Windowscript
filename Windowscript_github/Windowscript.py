@@ -8,7 +8,7 @@ import datetime
 
 sys.setrecursionlimit(10000)
 
-VERSION = "2.1.1-20260827-17"
+VERSION = "2.1.1-20260902-18"
 
 AUTO_IMPORTABLE = {
     'random', 'math', 'time', 'datetime', 'os', 'sys', 'json', 're',
