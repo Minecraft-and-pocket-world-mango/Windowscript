@@ -943,7 +943,7 @@ def transpile(code):
 class WindowscriptIDE:
     def __init__(self, root):
         self.root = root
-        self.root.title(">> Windowscript IDE 2.1.1-20260827-17 <<")
+        self.root.title(">> Windowscript IDE 2.1.1-20260902-18 <<")
         self.root.geometry("950x700")
         self.root.configure(bg="#05050f")
         self.current_file_path = None
