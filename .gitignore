@@ -1,0 +1,56 @@
+# Python
+*.py
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller 打包输出
+*.spec
+*.exe
+*.msi
+*.zip
+*.7z
+release/
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# 本地配置文件
+config.local.*
+*.local
+.env
+
+# 日志和临时文件
+*.log
+*.tmp
+*.temp
+*.cache
+
+# 文档编译临时文件
+*.aux
+*.out
+*.toc
+
+# 图标文件夹（如果你不想把图标源码传上去）
+icon/
+*.ico
